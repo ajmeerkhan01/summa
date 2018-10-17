@@ -2,7 +2,8 @@
 int main()
 {
 	int a,b;
-	a=10;b=3;
+//	a=10;b=3;
+	scanf("%d%d",&a,&b);
 	printf("%d",a-b);
 }
 
