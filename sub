@@ -1,0 +1,6 @@
+#include<stdio.j>
+int main()
+{
+	printf("%d",7-3);
+}
+
